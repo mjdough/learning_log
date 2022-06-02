@@ -13,7 +13,7 @@ dj-static==0.0.6
 django-bootstrap3==7.0.1
 duplicity==0.6.23
 gunicorn==19.6.0
-html5lib==0.999
+html5lib==0.99999999
 httplib2==0.8
 ipython==1.2.1
 keyring==3.5
